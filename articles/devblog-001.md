@@ -44,4 +44,6 @@ Non possiamo far altro che partire dal primo sistema che troverete in game, cio�
 Manca sempre meno all’apertura, tra poco potrete toccare con mano la qualità di questo progetto. 
 Nel frattempo, godetevi quest'ultimo sneak peek di chiusura. 
 
-<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/Wg3XOAA" data-context="false" ><a href="//imgur.com/a/Wg3XOAA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<div align="center">
+  <video width="320" height="240" controls><source src="https://i.imgur.com/m7NXFvj.mp4" type="video/mp4"></video>
+</div>
