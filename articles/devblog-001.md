@@ -7,12 +7,12 @@ Visual punta ad essere sinonimo di qualità, una garanzia per la community itali
 Dall'apertura del discord ad oggi, le domande sono state molte. In molti credono che Visual sia solo una grande incognità. Molti altri non ricononosco il potenziale di Visual, o meglio, non hanno ancora visione di ciò che Visual sarà in grado di offrire. Riteniamo pertanto doveroso, con l'apertura di questo blog, dimostrare la tenacia e la professionalità con cui stiamo portando a termine questo progetto.
 
 ## Stato dello sviluppo 
-Il mese di Dicembre è stato molto movimentato, sono state impletamentate numerose migliorie al codice sorgente per migliorare le prestazioni del server e del client. Uno dei punti cardini di questo progetto è infatti proprio l'accessibilità: stiamo lavorando duramente per offrire un prodotto longevolo e di qualità. Ciò è il motivo per cui crediamo che lo sviluppo di Visual non debba essere forzato. L'apertura di Visual arriverà ed è inevitabile. 
+Il mese di dicembre è stato molto movimentato, sono state impletamentate numerose migliorie al codice sorgente per migliorare le prestazioni del server e del client. Uno dei punti cardini di questo progetto è infatti proprio l'accessibilità: stiamo lavorando duramente per offrire un prodotto longevolo e di qualità. Ciò è il motivo per cui crediamo che lo sviluppo di Visual non debba essere forzato. L'apertura di Visual arriverà ed è inevitabile. 
 
 In riferimento alla lista riportata in basso, abbiamo concentrato i nostri sforzi mensili per risolvere problematiche comuni e molto frequenti tra i server di GTA5 che utilizzano piattaforme multiplayer come FiveM o RageMP.
 
 **Problematiche frequenti riscontrate su altri server di GTA 5**:
-> Eccessivo utilizzo di CPU da parte del client, problemi di desync, assenza di un appropiato sistema per gestire le entities di gioco (oggetti vicino al player, checkpoint, ecc), consumo insolito di RAM da parte delle interfacce di gioco non native (create attraverso un browser fornito dalla mod multiplayer), FPS troppo bassi. 
+> Eccessivo utilizzo di CPU da parte del client, problemi di desync, assenza di un appropriato sistema per gestire le entities di gioco (oggetti vicino al player, checkpoint, ecc), consumo insolito di RAM da parte delle interfacce di gioco non native (create attraverso un browser fornito dalla mod multiplayer), FPS troppo bassi. 
 
 Riportiamo inoltre di seguito i punti chiavi dello sviluppo di questo mese. 
 
@@ -23,12 +23,12 @@ Riportiamo inoltre di seguito i punti chiavi dello sviluppo di questo mese.
 
 * Conversione a Typescript. Attualmente in corso una revisione del codice sorgente completa per migliorarne la qualità e per indirizzare bug di gioco. 
 
-### Approfondimenti tecnici
+## Approfondimenti tecnici
 
-#### Che cos'è lo streamer?
+### Che cos'è lo streamer?
 Una meccanica quasi sempre tralasciata in molti server di GTA 5 è la presenza di uno streamer in grado di fare da tramite tra il client e il server di gioco per aggiornare le entità presenti in prossimità del player con altri player. In altre parole, un elemento di gioco addizionale e non incluso originariamente nel gioco che deve essere syncato tra i giocatori, ovvero che deve essere visibile da tutti quando si è in prossimita con esso. Cerchiamo di capirci meglio con un esempio pratico: immaginiamo di voler rilevare la posizione di una proprietà in prossimità di un player. La scelta più opportuna è quella di indicarla con un checkpoint, quindi ci basterà crearne uno e il gioco sarà fatto, giusto? Non esattamente. Immaginate di avere 100 proprietà molto vicine tra di loro e di doverle rilevare ad un player nelle vicinanze con 100 checkpoint differenti. Oltre a risultare sgradevole, ciò comporterebbe ad un notevole calo delle prestazioni di gioco. Immaginiamo ora invece di aver uno streamer in grado di mostrare al player le proprietà al momento più opportuno, ovvero quando il player si troverà effettivamente in prossimità di esse e ad una distanza minima specificata anticipamente dal server. Ciò comporterebbe nell'avere 100 proprietà vicine in range ma solo un unico checkpoint.
 
-#### Cosa sono i browser di gioco, a cosa servono?**
+### Cosa sono i browser di gioco, a cosa servono?**
 Quando si parla di browser di gioco non si fa altro che riferimento ad un vero e proprio browser (come Firefox, Google Chrome) implementato all'interno del gioco in grado di fornire al player un'interfaccia di navigazione. HTML, stili in CSS e codice in Javascript può essere fornito al browser per creare interfacce grafiche o per fornire informazioni di vario tipo. Un utilizzo non corretto dei browser di gioco può incidere negativamente sulle prestazioni del client.
 
 ## Anteprima creazione personaggio
