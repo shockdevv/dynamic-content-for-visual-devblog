@@ -1,6 +1,6 @@
 # Visual Devblog - #001
 
-<div align="center">![Visual RP Logo](https://i.imgur.com/eWuJmqE.png)</div>
+<div align="center"><img src="https://i.imgur.com/eWuJmqE.png" alt="Visual Roleplay logo"/></div>
 
 Visual punta ad essere sinonimo di qualità, una garanzia per la community italiana roleplay di Grand Theft Auto V. Questo blog stabilirà un nuovo punto di dialogo per i tutti i giocatori appassionati di questa modalità.
 
@@ -38,10 +38,10 @@ Abbiamo raccolto idee, pareri, proposte provenienti da uno staff ampio ed eterog
 C’era una cosa, però, che non volevamo fare: mostrarvi qualcosa e poi dover aspettare mesi per vederla realizzata male. Adesso, finalmente, abbiamo un’idea precisa di cosa fare e sappiamo come farlo.
 Non possiamo far altro che partire dal primo sistema che troverete in game, cioè quello di creazione dei personaggi. Abbiamo scelto una caratterizzazione molto approfondita: sono stati infatti inclusi tutti i parametri di customizzazione presenti nel gioco nativamente. La creazione del personaggio, inoltre, come anche del resto tutti i sistemi presenti all'interno della nostra gamemode, non dipendono da piattaforme esterne di terze parti non associate con Visual.
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/cXYDWlLhDwY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/cXYDWlLhDwY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Sneak peek di chiusura
 Manca sempre meno all’apertura, tra poco potrete toccare con mano la qualità di questo progetto. 
 Nel frattempo, godetevi quest'ultimo sneak peek di chiusura. 
 
-![Dog snippet](https://i.imgur.com/m7NXFvj.mp4)
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/Wg3XOAA" data-context="false" ><a href="//imgur.com/a/Wg3XOAA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
