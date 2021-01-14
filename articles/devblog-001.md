@@ -25,10 +25,10 @@ Riportiamo inoltre di seguito i punti chiavi dello sviluppo di questo mese.
 
 ### Approfondimenti tecnici
 
-###### Che cos'è lo streamer?
+**Che cos'è lo streamer?**
 Una meccanica quasi sempre tralasciata in molti server di GTA 5 è la presenza di uno streamer in grado di fare da tramite tra il client e il server di gioco per aggiornare le entità presenti in prossimità del player con altri player. In altre parole, un elemento di gioco addizionale e non incluso originariamente nel gioco che deve essere syncato tra i giocatori, ovvero che deve essere visibile da tutti quando si è in prossimita con esso. Cerchiamo di capirci meglio con un esempio pratico: immaginiamo di voler rilevare la posizione di una proprietà in prossimità di un player. La scelta più opportuna è quella di indicarla con un checkpoint, quindi ci basterà crearne uno e il gioco sarà fatto, giusto? Non esattamente. Immaginate di avere 100 proprietà molto vicine tra di loro e di doverle rilevare ad un player nelle vicinanze con 100 checkpoint differenti. Oltre a risultare sgradevole, ciò comporterebbe ad un notevole calo delle prestazioni di gioco. Immaginiamo ora invece di aver uno streamer in grado di mostrare al player le proprietà al momento più opportuno, ovvero quando il player si troverà effettivamente in prossimità di esse e ad una distanza minima specificata anticipamente dal server. Ciò comporterebbe nell'avere 100 proprietà vicine in range ma solo un unico checkpoint.
 
-###### Cosa sono i browser di gioco, a cosa servono?
+**Cosa sono i browser di gioco, a cosa servono?**
 Quando si parla di browser di gioco non si fa altro che riferimento ad un vero e proprio browser (come Firefox, Google Chrome) implementato all'interno del gioco in grado di fornire al player un'interfaccia di navigazione. HTML, stili in CSS e codice in Javascript può essere fornito al browser per creare interfacce grafiche o per fornire informazioni di vario tipo. Un utilizzo non corretto dei browser di gioco può incidere negativamente sulle prestazioni del client.
 
 ## Anteprima creazione personaggio
@@ -45,5 +45,5 @@ Manca sempre meno all’apertura, tra poco potrete toccare con mano la qualità 
 Nel frattempo, godetevi quest'ultimo sneak peek di chiusura. 
 
 <div align="center">
-  <video width="320" height="240" controls><source src="https://i.imgur.com/m7NXFvj.mp4" type="video/mp4"></video>
+  <video width="560" height="315" controls><source src="https://i.imgur.com/m7NXFvj.mp4" type="video/mp4"></video>
 </div>
