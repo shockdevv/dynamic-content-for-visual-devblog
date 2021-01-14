@@ -2,12 +2,12 @@
 
 <div align="center"><img src="https://i.imgur.com/eWuJmqE.png" alt="Visual Roleplay logo"/></div>
 
-Visual punta ad essere sinonimo di qualità, una garanzia per la community italiana roleplay di Grand Theft Auto V. Questo blog stabilirà un nuovo punto di dialogo per i tutti i giocatori appassionati di questa modalità.
+Visual punta ad essere sinonimo di qualità, una garanzia per la community italiana roleplay di Grand Theft Auto V. Questo blog stabilirà un nuovo punto di dialogo per tutti i giocatori appassionati di questa modalità.
 
-Dall'apertura del [discord](https://discord.com/invite/J9VxYbwbgH) ad oggi, le domande sono state molte. In molti credono che Visual sia solo una grande incognità. Molti altri non ricononosco il potenziale di Visual, o meglio, non hanno ancora visione di ciò che Visual sarà in grado di offrire. Riteniamo pertanto doveroso, con l'apertura di questo blog, dimostrare la tenacia e la professionalità con cui stiamo portando a termine questo progetto.
+Dall'apertura del [discord](https://discord.com/invite/J9VxYbwbgH) ad oggi, le domande sono state molte. In molti credono che Visual sia solo una grande incognita. Molti altri non ricononosco il potenziale di Visual, o meglio, non hanno ancora visione di ciò che Visual sarà in grado di offrire. Riteniamo pertanto doveroso, con l'apertura di questo blog, dimostrare la tenacia e la professionalità con cui stiamo portando a termine questo progetto.
 
 ## Stato dello sviluppo 
-Il mese di dicembre è stato molto movimentato, sono state impletamentate numerose migliorie al codice sorgente per migliorare le prestazioni del server e del client. Uno dei punti cardini di questo progetto è infatti proprio l'accessibilità: stiamo lavorando duramente per offrire un prodotto longevolo e di qualità. Ciò è il motivo per cui crediamo che lo sviluppo di Visual non debba essere forzato. L'apertura di Visual arriverà ed è inevitabile. 
+Il mese di dicembre è stato molto movimentato, sono state implementate numerose migliorie al codice sorgente per migliorare le prestazioni del server e del client. Uno dei punti cardini di questo progetto è infatti proprio l'accessibilità: stiamo lavorando duramente per offrire un prodotto longevo e di qualità. Ciò è il motivo per cui crediamo che lo sviluppo di Visual non debba essere forzato. L'apertura di Visual arriverà ed è inevitabile. 
 
 In riferimento alla lista riportata in basso, abbiamo concentrato i nostri sforzi mensili per risolvere problematiche comuni e molto frequenti tra i server di GTA5 che utilizzano piattaforme multiplayer come FiveM o RageMP.
 
