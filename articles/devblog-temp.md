@@ -10,7 +10,7 @@ Questo aggiornamento porta con sé molteplici novità: un sistema business inter
 
 ## VisualUI
 
-<div align="center"><img src="https://i.imgur.com/Qc2zhSW.png" alt="Visual Roleplay logo"/></div>
+<div align="center"><img src="https://i.imgur.com/VBwTxgL.png" alt="Visual Roleplay logo"/></div>
 
 <div style="text-align: justify;">
 VisualUI è una libreria scritta in Typescript che permette di realizzare rapidamente menu responsive e user-friendly con contenuti dinamici. Trae ispirazione dalla celebre libreria NativeUI, servendosi di uno stile più pulito e di facile utilizzo che consente di migliorare facilmente le interazioni con i sistemi di gioco. Oltre a mettere a disposizione un'elevata personalizzazione dei contenuti rispetto a NativeUI, VisualUI si distingue per la sua spiccata intuitività. Grazie a questa caratteristica, infatti, i menu di gioco rimangono fedeli al design originale di Grand Theft Auto V e mantengono uno stile neutro, adattabile alle circostanze.
