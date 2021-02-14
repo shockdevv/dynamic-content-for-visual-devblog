@@ -4,7 +4,7 @@
 
 <div style="text-align: justify;">
 Il lavoro su Visual Roleplay prosegue giorno per giorno dietro le quinte, ed è già ora di mostrarvi un nuovo devblog. In quanto giocatori, conosciamo bene le nostre esigenze e ciò che ci aspettiamo da un server roleplay; per questa ragione, ogni qualvolta che mettiamo mano alla gamemode lo facciamo con l'ottica di introdurre sistemi e dinamiche di gioco con cui ci troveremmo noi stessi a nostro agio.
-
+<br>
 Questo aggiornamento porta con sé molteplici novità: un sistema business interamente ammodernato ed ottimizzato, un sistema di GUI dinamico battezzato VisualUI, un sistema outfit e tatuaggi per permettere la miglior personalizzazione possibile del vostro personaggio, il pacchetto Visual Premium ricco di features aggiuntive, e molte altre migliorie QoL (Quality of Life) sulla gamemode. Buona lettura.
 </div>
 
