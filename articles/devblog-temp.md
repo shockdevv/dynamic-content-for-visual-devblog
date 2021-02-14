@@ -4,7 +4,7 @@
 
 <div style="text-align: justify;">
 Il lavoro su Visual Roleplay prosegue giorno per giorno dietro le quinte, ed è già ora di mostrarvi un nuovo devblog. In quanto giocatori, conosciamo bene le nostre esigenze e ciò che ci aspettiamo da un server roleplay; per questa ragione, ogni qualvolta che mettiamo mano alla gamemode lo facciamo con l'ottica di introdurre sistemi e dinamiche di gioco con cui ci troveremmo noi stessi a nostro agio.
-<br>
+
 Questo aggiornamento porta con sé molteplici novità: un sistema business interamente ammodernato ed ottimizzato, un sistema di GUI dinamico battezzato VisualUI, un sistema outfit e tatuaggi per permettere la miglior personalizzazione possibile del vostro personaggio, il pacchetto Visual Premium ricco di features aggiuntive, e molte altre migliorie QoL (Quality of Life) sulla gamemode. Buona lettura.
 </div>
 
@@ -13,7 +13,7 @@ Questo aggiornamento porta con sé molteplici novità: un sistema business inter
 <div align="center"><img src="https://i.imgur.com/Qc2zhSW.png" alt="Visual Roleplay logo"/></div>
 
 <div style="text-align: justify;">
-VisualUI è una libreria scritta in Typescript che permette di realizzare rapidamente menu responsive e user-friendly con contenuti dinamici. Trae ispirazione dalla celebre libreria NativeUI, servendosi uno stile più pulito e di facile utilizzo che consente di migliorare facilmente le interazioni con i sistemi di gioco. Oltre a mettere a disposizione un'elevata personalizzazione dei contenuti rispetto a NativeUI, VisualUI si distingue per la sua spiccata intuitività. Grazie a questa caratteristica, infatti, i menu di gioco rimangono fedeli al design originale di Grand Theft Auto V e mantengono uno stile neutro, adattabile alle circostanze.
+VisualUI è una libreria scritta in Typescript che permette di realizzare rapidamente menu responsive e user-friendly con contenuti dinamici. Trae ispirazione dalla celebre libreria NativeUI, servendosi di uno stile più pulito e di facile utilizzo che consente di migliorare facilmente le interazioni con i sistemi di gioco. Oltre a mettere a disposizione un'elevata personalizzazione dei contenuti rispetto a NativeUI, VisualUI si distingue per la sua spiccata intuitività. Grazie a questa caratteristica, infatti, i menu di gioco rimangono fedeli al design originale di Grand Theft Auto V e mantengono uno stile neutro, adattabile alle circostanze.
 
 Grazie all'introduzione di VisualUI, gran parte del nostro lavoro inerente con lo sviluppo delle interfacce viene facilitato. Il roleplay è questione di immaginazione, ma l'immaginazione va stimolata. Nei nostri occhi c'è sempre l'esigenza di mantenere la più alta immersività possibile, dalle cose apparentemente più insignificanti fino a quelle più immediate.
 </div>
