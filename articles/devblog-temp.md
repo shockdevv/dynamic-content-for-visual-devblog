@@ -1,5 +1,7 @@
 # Visual Devblog - #002
+
 <div align="center"><img src="https://i.imgur.com/6iNBset.png" alt="Visual Roleplay logo"/></div>
+
 Il lavoro su Visual continua ogni giorno, dietro le quinte, ed è già ora di mostrarvi un nuovo DevBlog. 
 Ascoltiamo e leggiamo attentamente quali siano le richieste ed i bisogni dei giocatori. Il nostro lavoro è indirizzato in modo da regalarvi un'esperienza unica, e con un po' di pazienza ci riusciremo. 
 	
