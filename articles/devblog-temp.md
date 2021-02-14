@@ -8,6 +8,9 @@ Ascoltiamo e leggiamo attentamente quali siano le richieste ed i bisogni dei gio
 Questo aggiornamento porta con sè molteplici novità: un sistema Business completamente rinnovato ed ottimizzato, un sistema di GUI dinamico chiamato Visual UI, un sistema outfit e tatuaggi per arricchire al meglio la personalizzazione del vostro personaggio, il pacchetto Visual Premium ricco di features aggiuntive, e molte altre migliorie QoL (Quality of Life) sulla gamemode. Buona lettura.
 
 ## VisualUI
+
+<div align="center"><img src="https://i.imgur.com/Qc2zhSW.png" alt="Visual Roleplay logo"/></div>
+
 VisualUI è una libreria scritta in Typescript che consente di creare rapidamente menu responsive e user-friendly con contenuti dinamici. Trae ispirazione dalla celebre libreria NativeUI, adottando uno stile più pulito e di facile utilizzo che consente di migliorare facilmente le interazioni con i sistemi di gioco. 
 Oltre ad offrire un'elevata personalizzazione dei contenuti rispetto a NativeUI, VisualUI si distingue per la sua spiccata intuitività. Grazie a questa particolarità, infatti, i menu di gioco sono in grado di rimanere fedeli alla lore originale di GTA V o di mantenere uno stile neutro adattabile alle circostanze.
 	
