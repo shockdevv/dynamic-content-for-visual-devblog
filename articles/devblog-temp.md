@@ -34,8 +34,7 @@ Abbiamo pensato anche ad un sistema di tatuaggi. Vi mettiamo a disposizione l'in
 Ogni tatuaggio è accompagnato da una breve descrizione, così da potere scegliere il vostro preferito con comodità. OK, abbiamo parlato abbastanza.
 Ê il momento di far parlare il sistema.
 </div>
-
-
+<br>
 <div align="center" style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
 	<iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" width="420" height="315" src="https://www.youtube.com/embed/935Wat-HT6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
